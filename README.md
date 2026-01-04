@@ -30,6 +30,8 @@ cs50-portfolio/
 │       ├── test_project.py
 │       ├── requirements.txt
 │       └── README.md
+│
+└── README.md
 
 ## Academic Purpose:
 This portfolio demonstrates my foundational preparation for advanced study in Computer Science and Artificial Intelligence. It highlights both technical competence in Python and the ability to apply programming concepts to meaningful, real-life scenarios.

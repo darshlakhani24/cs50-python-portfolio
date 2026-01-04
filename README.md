@@ -36,5 +36,7 @@ This portfolio demonstrates my foundational preparation for advanced study in Co
 
 ## Author: 
 Darsh Lakhani
+
 CS50P Student
+
 Aspiring AI Researcher

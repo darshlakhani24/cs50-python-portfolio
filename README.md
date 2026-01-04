@@ -31,10 +31,10 @@ cs50-portfolio/
 │       ├── requirements.txt
 │       └── README.md
 
-Academid Purpose:
+## Academic Purpose:
 This portfolio demonstrates my foundational preparation for advanced study in Computer Science and Artificial Intelligence. It highlights both technical competence in Python and the ability to apply programming concepts to meaningful, real-life scenarios.
 
-Author: 
+## Author: 
 Darsh Lakhani
 CS50P Student
 Aspiring AI Researcher

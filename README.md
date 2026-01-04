@@ -12,27 +12,6 @@ CS50P is a rigorous introduction to programming using Python, with an emphasis o
 
 This portfolio reflects my engagement with the course material and my development as a Python programmer.
 
-## Repository Structure
-cs50-portfolio/
-│
-├── psets/
-│   ├── week0/
-│   ├── week1/
-│   ├── week2/
-│   ├── week3/
-│   ├── week4/
-│   ├── week5/
-│   └── week6/
-│
-├── final-project/
-│   └── bill-splitter/
-│       ├── project.py
-│       ├── test_project.py
-│       ├── requirements.txt
-│       └── README.md
-│
-└── README.md
-
 ## Academic Purpose:
 This portfolio demonstrates my foundational preparation for advanced study in Computer Science and Artificial Intelligence. It highlights both technical competence in Python and the ability to apply programming concepts to meaningful, real-life scenarios.
 
